@@ -1,5 +1,5 @@
 # Global Methane Emissions Analysis
-Brief description of the project and what it sets out to achieve.
+Brief exploration into world methane emissions, and it's breakdown by type, segment, and country.
 
 ## Data
 Describe the data used in the analysis, including the source(s) and any preprocessing that was performed.
