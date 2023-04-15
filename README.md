@@ -22,5 +22,8 @@ List any resources used in the analysis or referenced in the project.
 ## Authors
 List the authors of the project and provide contact information.
 
+## License
+[CC0: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
+
 ## Acknowledgments
 Thank any contributors or organizations that helped with the project.
