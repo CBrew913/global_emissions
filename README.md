@@ -6,14 +6,14 @@ The data for this analysis was obtained from Kaggle, found [here](https://www.ka
 - The license for this data is [CC0: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/).
 
 The raw data consists of the following columns:
-1. region - Divides countries into larger groups.
-2. country - Country of emission.
-3. emissions - Methane emissions in kt.
-4. type - Sector from which emissions occur.
-5. Segment- Sub-sector from which emissions occur.
-6. reason - The reason for emission.
-7. baseYear - Base year for the tracking of emissions.
-8. notes - The source of data.
+1. __region__ - Divides countries into larger groups.
+2. __country__ - Country of emission.
+3. __emissions__ - Methane emissions in kt.
+4. __type__ - Sector from which emissions occur.
+5. __segment__- Sub-sector from which emissions occur.
+6. __reason__ - The reason for emission.
+7. __baseYear__ - Base year for the tracking of emissions.
+8. __notes__ - The source of data.
 
 Upon first exploration of the data, I decided to drop the notes column. I determined that while the information contained is valuable, it is not relevant to the analysis. In addition, only 671 of the 1548 available rows (43.3%) were populated with useful data.
 
